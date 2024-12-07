@@ -4,4 +4,6 @@ It prints the timestamp to the gui.
 
 This code is simply testing ground with pwm, rising and falling edges, and GPIO
 
+To use: Download folder and flash to arduino
+
 Original code written for LAB4 Umass ECE231 Spring 2024
